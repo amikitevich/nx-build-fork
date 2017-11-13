@@ -1,0 +1,13 @@
+{
+  "name": "@nrwl/nx",
+  "version": "0.0.1",
+  "description": "Nrwl Extensions for Angular",
+  "main": "index.js",
+  "types": "index.d.js",
+  "dependencies" :{
+    "jasmine-marbles": "0.1.0"
+  },
+  "peerDependencies" :{},
+  "author": "Victor Savkin",
+  "license": "MIT"
+}
