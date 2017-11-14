@@ -13,6 +13,7 @@ var core_1 = require("@angular/core");
 var data_persistence_1 = require("./data-persistence");
 __export(require("./data-persistence"));
 /**
+ * Nx for without dependency on router-store
  * @whatItDoes Provides services for enterprise Angular applications.
  *
  * See {@link DataPersistence} for more information.
